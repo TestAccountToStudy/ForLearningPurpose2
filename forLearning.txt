@@ -15,3 +15,4 @@ Thirty
 function getUser(){
  return "hari";
 }
+String name=getUser();

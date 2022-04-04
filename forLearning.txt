@@ -12,7 +12,7 @@ Thirty
 2111
 2122
 3747
-function getUser(){
+function getUsers(){
  return "hari";
 }
-String name=getUser();
+String name=getUsers();

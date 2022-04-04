@@ -13,5 +13,5 @@ Thirty
 2122
 3747
 function getUser(){
- return "hari:
+ return "hari";
 }

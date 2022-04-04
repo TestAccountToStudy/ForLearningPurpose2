@@ -11,6 +11,9 @@ Thirty
 function getPerson(){
     return "person";
 }
+function getPersonName(){
+    return "personName";
+}
 210
 2111
 2122
